@@ -38,8 +38,8 @@ def main():
     logger = EventLogger()
 
     # Read the protocol header, this can be read with any protocol
-    contents = archive.header['user_data_header']['content']
-    header = protocol.decode_replay_header(contents)
+    #contents = archive.header['user_data_header']['content']
+    #header = protocol.decode_replay_header(contents)
 
     # The header's baseBuild determines which protocol to use
     #baseBuild = header['m_version']['m_baseBuild']
