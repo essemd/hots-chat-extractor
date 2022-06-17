@@ -1,3 +1,5 @@
+Want to see what the enemy team was saying about you during the match? This tool allows you to do so; since you can't read the enemies chat either while in-game or even when watching the replay back.
+
 Deps:  
 	- Python 3.x  
 	- mpyq>0.2.5 and six>1.14.0  
